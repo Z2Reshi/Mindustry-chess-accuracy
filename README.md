@@ -1,5 +1,5 @@
   This mod adds to Mindustry some chess things, such as moves accuracy, chess pieces, and other Chess.com* icons.
-Moves accuracy will be added as effects when I will know how to do so and I will create NOT bugged sprites.
+\n Moves accuracy will be added as effects when I will know how to do so and I will create NOT bugged sprites.
 I'm not an expert informaticien, but I managed to create a couple of working Mindustry mods.
 If you like the mod, however, why not leaving a star on GitHub?  It would help me understanding what type of mods people like more.
 --------  
